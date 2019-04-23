@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "activemq.broker-url",
+    "type": "java.lang.String",
+    "description": "A description for 'activemq.broker-url'"
+  },
+  {
+    "name": "activemq.queue.name",
+    "type": "java.lang.String",
+    "description": "A description for 'activemq.queue.name'"
+  }
+]}
